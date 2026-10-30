@@ -10,4 +10,4 @@ This repository hosts public legal and support pages for Danzify - AI Dance Make
 
 ## Operator
 
-Danzify is operated by Linga Technologies, a sole proprietorship operated by Shiva Sharma Mathan in Tamil Nadu, India.
+Danzify is operated by Linga Technologies, a sole proprietorship operated by Shiva Shanmuganathan in Tamil Nadu, India.
